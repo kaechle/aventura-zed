@@ -1,0 +1,7 @@
+{
+    "name": "Aventura",
+    "version": "0.1.0",
+    "authors": ["Tim Kaechle <timothy.kaechle@me.com"],
+    "description": "Distinction without distraction.",
+    "repository": "https://github.com/kaechle/aventura-zed"
+}
